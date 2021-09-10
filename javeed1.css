@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+           background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+		   height:30vh;
+		   background-size: cover;
+		   padding: 15px;
+		   
+		   }
+.head{
+	 text-align: right;
+	 color:#a0ee45;
+	 font-family: "lobster";
+	 text-shadow: 2px 2px #ff0000;
+	 
+
+}
+
+.hand{
+	background-color:white;
+	padding: 20px;
+	margin:5px;
+	border-radius: 50px;
+	background-color:#b3f16a;
+	text-align:center;
+	
+	
+	
+	
+
+
+}
+.head-1{
+	font-size: 20px;
+}
